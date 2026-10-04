@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <!--边界样件：9 个码各摆一处，颜色 111 出现两次-->
+    <territory color="111">
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="0" dmax="0" x="100" z="200" r="50"/>
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="0" dmax="0" x="100" z="200" r="50"/>
+        <zone name="InfectedArmy" smin="5" smax="1" dmin="3" dmax="4" x="300" z="400" r="50"/>
+        <zone name="InfectedVillage" smin="1" smax="5" dmin="9" dmax="4" x="500" z="600" r="50"/>
+        <zone name="InfectedPrisoner" smin="1" smax="5" dmin="1" dmax="4" x="700" z="800" r="50"/>
+        <zone name="InfectedCity" smin="1" smax="5" dmin="1" dmax="4" x="900" z="1000" r="50" d="3"/>
+        <zone name="InfectedCity" smin="1" smax="5" dmin="1" dmax="4" x="abc" z="1000" r="50"/>
+        <zone name="InfectedCity" smin="1" smax="5" dmin="1" dmax="4" x="1100" z="1200" r="0"/>
+        <zone name="InfectedCity" smin="1" smax="5" dmin="1" dmax="4" x="1100" z="1200" r="1001"/>
+        <zone name="InfectedCity" smin="1" smax="5" dmin="1" dmax="4" x="16000" z="1200" r="100"/>
+        <zone name="InfectedCity" smin="1" smax="5" dmin="1" dmax="4" x="1100" z="-5" r="100"/>
+        <zone name="InfectedMedic" smin="2" smax="4" dmin="2" dmax="4" x="10" z="20" r="100"/>
+    </territory>
+    <territory color="222">
+        <zone name="InfectedArmy" smin="1" smax="5" dmin="1" dmax="4" x="100" z="200" r="50"/>
+        <zone name="InfectedArmy" smin="1" smax="5" dmin="1" dmax="4" x="500" z="600" r="50"/>
+    </territory>
+    <territory color="111">
+        <zone name="InfectedMedic" smin="3" smax="3" dmin="3" dmax="3" x="7" z="8" r="60"/>
+    </territory>
+</territory-type>

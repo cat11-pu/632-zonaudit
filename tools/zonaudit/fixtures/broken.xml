@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="111">
+        <zone name="InfectedArmy" smin="1" smax="2" dmin="1" dmax="2" x="1" z="2" r="3"/>
+    </territory>
